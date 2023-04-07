@@ -5,4 +5,4 @@ The second program **``ParamEstimation.C``** analyse the data and estimates a va
 
 
 
-$$\(E=mc^2\)$$
+$$L(x|\theta) = \(E=mc^2\)$$

@@ -5,4 +5,4 @@ The second program **``ParamEstimation.C``** analyse the data and estimates a va
 
 
 
-$$L(x|\theta) = prod (p_i)^[x=i]\)$$
+$$L(x|\theta) = &prod; (p_i)^[x=i]\)$$

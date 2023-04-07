@@ -13,3 +13,4 @@ The maximization of the LLR gives an estimated value for the unknown parameter. 
 $${\theta = \frac{ &sum;_{i=1}^N {\beta_i} }{N} }$$
 
 ## How to run the programs?
+both of the programs can be run in (root)[https://root.cern/install/] terminal. We also need to pass an integer as the argument of the functions. This integer will be equal to the number of the trials. Simply, open the root terminal and type **``getDecay.C(5000)``** and for second program **``ParamEstimation.C(5000)``**

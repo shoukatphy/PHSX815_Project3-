@@ -8,4 +8,4 @@ The second program **``ParamEstimation.C``** analyse the data and estimates a va
 $${L(x|\theta) = &prod;_{i=1}^k p_i^{(x=i)}}$$ <br>
 
 The maximization of the LLR gives an estimated value for the unknown parameter. This can be done by using the Lagrange multiplier methods while considering the one constraint equation, that is given by the conservation of the probability. So this method return the expression to estimate the theta as <br>
-$${\theta = \sum_i^n \beta}/N$$
+$${\theta = \frac{\sum_i^n beta}{N}}/N$$
